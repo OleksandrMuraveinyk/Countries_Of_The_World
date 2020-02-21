@@ -1,0 +1,8 @@
+.countries {
+    margin: 0px 5px 5px 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 30%;
+    box-sizing: border-box;
+}
